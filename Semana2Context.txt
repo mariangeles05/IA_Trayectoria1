@@ -1,0 +1,254 @@
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+ELECCIÓN INDIVIDUAL
+Camila, Elena, Ana
+Criterio: son las personas que mayor asistencias tienen entonces se ven que estan comprometidas con el apredizaje, por ejemplo elena comprende varias cosas pero comete rrores que se pueden ir aprendiendo poco a poco y mejorando varias cosas, camila tiene que mejorar en poder hacer las cosas sola, ya que es lo que mas le cuesta y ana estudia independiente o sea que es auatonoma pero necesita el acompañamiento para poder entender mejor varios terminos.
+
+PRIMERA CONSULTA
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+PRIMERA RESPUESTA
+
+*En geminis de google*
+
+Estudiantes seleccionados para el acompañamiento
+
+• Camila (Nota: 2,8 | Asistencia: 100%)
+	• Justificación: Camila está a un paso de aprobar (2,8) y su compromiso es absoluto (100% de asistencia). Su problema es metodológico y psicológico: sabe resolver problemas cuando está acompañada, pero se "bloquea" sola. El programa de acompañamiento es perfecto para ella, ya que un tutor puede darle la confianza y las herramientas de resolución independiente que necesita para pasar el curso con éxito.
+• Ana (Nota: 2,1 | Asistencia: 95%)
+	• Justificación: Ana demuestra un gran interés y esfuerzo al estudiar por su cuenta y asistir casi a la totalidad de las clases (95%). Sin embargo, tiene vacíos estructurales ("sigue sin comprender conceptos básicos") que el autoaprendizaje no está logrando resolver. La intervención de un tutor es crítica aquí para corregir esos errores de base antes de que sea tarde.
+• Elena (Nota: 2,7 | Asistencia: 100%)
+	• Justificación: Al igual que Camila, Elena tiene un compromiso impecable (100% de asistencia) y está muy cerca de la nota de aprobación (2,7). Ella entiende la teoría ("comprende las explicaciones"), pero falla en la ejecución práctica ("comete errores al programar"). Un acompañamiento enfocado en la práctica guiada y la revisión de código (code review) elevará su nivel rápidamente.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*En geminis desde la aplicacion me dio esto*
+
+Los 3 estudiantes seleccionados para el acompañamiento
+
+1. Ana (Nota: 2,1 | Asistencia: 95 %)
+
+    Por qué se selecciona: Presenta una de las notas más bajas del curso (2,1), lo que indica un riesgo inminente de reprobación. Sin embargo, su asistencia del 95 % y su iniciativa por estudiar por cuenta propia demuestran un alto compromiso e interés genuino en aprender. El programa de acompañamiento es ideal para corregir los baches conceptuales básicos que le impiden avanzar.
+
+2. Diego (Nota: 1,9 | Asistencia: 60 %)
+
+    Por qué se selecciona: Tiene la nota más baja del grupo (1,9) y una asistencia comprometida (60 %) debido a una causa de fuerza mayor (cuidado de un familiar). A pesar de esto, expresa explícitamente su deseo de continuar. Excluirlo sería condenarlo a la deserción; el acompañamiento le brindará el apoyo necesario para ponerse al día y gestionar mejor sus tiempos de aprendizaje frente a su compleja situación personal.
+
+3. Camila (Nota: 2,8 | Asistencia: 100 %)
+
+    Por qué se selecciona: Aunque su nota está cerca del mínimo aprobatorio, su asistencia perfecta (100 %) refleja total constancia. Su problema principal no es la falta de interés, sino una fuerte dependencia externa ("se bloquea cuando trabaja sola"). El programa de acompañamiento le permitirá desarrollar autonomía técnica y confianza en sus propias capacidades de programación.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+*En ChatGPT*
+
+1. Estudiantes seleccionados
+1. Diego — Nota: 1,9 | Asistencia: 60 %
+
+Justificación: Diego tiene la nota más baja del grupo y una asistencia reducida debido a que ha tenido que cuidar a un familiar. Además, manifiesta sentirse muy atrasado, aunque desea continuar con el curso. El acompañamiento le permitiría recuperar los temas que no ha comprendido, resolver dudas y avanzar a su propio ritmo.
+
+Razón principal: Presenta dificultades académicas importantes y circunstancias personales que han afectado su aprendizaje. Necesita apoyo para evitar que se siga atrasando.
+2. Ana — Nota: 2,1 | Asistencia: 95 %
+
+Justificación: Ana asiste regularmente a clases y estudia por su cuenta, pero todavía no comprende varios conceptos básicos de programación. Esto indica que, a pesar de su esfuerzo y compromiso, necesita una orientación más personalizada para superar sus dificultades.
+
+Razón principal: Tiene vacíos en los conocimientos fundamentales que pueden dificultar su aprendizaje de los temas más avanzados. El acompañamiento podría ayudarla a fortalecer esas bases y mejorar su desempeño.
+3. Gabriela — Nota: 2,6 | Asistencia: 80 %
+
+Justificación: Gabriela tiene una nota inferior a la mínima aprobatoria y cuenta con pocas oportunidades para practicar porque debe compartir el computador en casa. Esta situación limita su posibilidad de reforzar los conocimientos adquiridos en clase. El acompañamiento podría ayudarla a aprovechar mejor el tiempo disponible y a encontrar estrategias para practicar.
+
+Razón principal: Sus dificultades académicas están relacionadas, al menos en parte, con el acceso limitado a los recursos necesarios para aprender programación.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+OBSERVACIONES
+
+1. *Geminis de Google* 
+
+en verdad geminis parte de google interpreto el "necesitar acompañamiento" como la persona con el interes de participar, asi que escogio a los que mayor asistencia tenian ya que de una o otra manera eran los que estaban mas comprometidos.
+
+1 *Geminis aplicacion *  
+
+el "necesitar acompañamiento" lo tomo mas como ayudar tanto a las que mejor asistencias tienen tanto a el que tiene que mejorar mas como es el tema de diego que tiene muy baja asistencia pero es el que mas nota baja tiene y el expresar expliciamente que queire continuar.
+
+1 *ChatGPT* 
+
+el "necesitar acompañamiento" en verdad  tomo mas como los que tiene problemas externos y quiere ayudarlos a seguir en el proceso como lo seria en el caso de gabriela que tiene el problema de que tiene solo un computaodr en casa o en el caso de diego que necesita acompañamiento 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+2 *Geminis de Google* 
+
+se baso en verrdad mas que todo en la asistencia ya que lo relaciono a compromiso, y en las notas, que tambien tuvieran notas muy cercanas a el 3. pero dejo de segundo lado las imposibilidades de algunos como seria diego y bruno, que si de pronto quieren seguir pero como es algo que se sale de las manos del tutor y hasta de la misma persona no les presto como gran atencion si no que siento que las descarto de una.
+
+2 *Geminis aplicacion *  
+
+se baso mas en la ayuda, de quienes querian en verdad participar como mas por el tema de la asistencia pero tambien quien necesitaba mas ayuda como en el caso de diego que es el que menor nota tiene, digamos que dejo al lado a gabriela que serian alguien que por el tema de la computadora es algo que no puede ayudar con eso.
+
+2 *ChatGPT* 
+
+como tal utilizo como los datos que mas ayuda necesitaban, por eso tomo a diego y a gabriela, ya que de cierta manera son los que necesitan ayuda entonces tomo no tanto la asistencia , si no mas como los que necesitaban ayuda mas externa, y digamos que dejo mas a lado el hecho de las asistencias, no le presto tanta atencion a eso si no priorizo quieres necesitaban mas ayuda.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3 *Geminis de Google* 
+
+en verdad no mucho, siento que se baso mucho en la asistencia y pues dice como bueno como son las que mas asistete eso va a seguir como asi 
+
+3 *Geminis aplicacion *  
+
+el hecho de que diego puede que no asista a las clases pero el asume que el mejorara estado en clases siento que es contraproducente, por que si no puede estar en clases mucho menos creo que pueda estar en el acompañamiento, porque no es que el no quiera si no que no le da por el tiempo.
+
+3 *ChatGPT* 
+
+si, ya que asumio que gabriela, y diego iban a seguir con el proceso si uno le ayudaba, ya dio prioridad a las perosnas que no podian mas no que no querian , que a la vez no es seguro que estas dos personas puedan sacar el tiempo necesario para el acompañamiento, entonces dejo a otras personas de al lado por ayudar a las que de pronto ni podian ir pero asumio que con el acompañamiento podrias llegar a mejorar 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+4  *Geminis de Google* 
+no, no pidio ni informacion adicional ni nada, solo arrojo la respuesta 
+
+4 *Geminis aplicacion *
+no pidio tampoco ninguna informacion adicional 
+
+4 *ChatGPT* 
+no, la respuesta se cierta manera si fue mas extensa que otras, pero tampoco pidio informacion adicional ni nada, solo me prindo la informacion.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+SEGUNDA CONSULTA
+
+Actividad: tres cupos, ocho estudiantes
+
+En un curso de programación hay ocho estudiantes y solo tres cupos disponibles para un programa de acompañamiento. Tu equipo debe usar una IA para proponer quiénes deberían recibirlos.
+
+Estos son los datos del caso ficticio. Las notas van de 0 a 5 y se aprueba con 3.
+
+Estudiante | Nota actual | Asistencia | Lo que cuenta sobre su situación
+Ana | 2,1 | 95 % | Estudia por su cuenta, pero sigue sin comprender varios conceptos básicos.
+Bruno | 2,8 | 65 % | Sus turnos de trabajo coinciden con algunas clases.
+Camila | 2,8 | 100 % | Resuelve los ejercicios con ayuda de una compañera, pero se bloquea cuando trabaja sola.
+Diego | 1,9 | 60 % | Ha faltado para cuidar a un familiar. Quiere continuar, pero se siente muy atrasado.
+Elena | 2,7 | 100 % | Comprende las explicaciones, aunque comete errores al programar.
+Felipe | 4,3 | 95 % | Quiere profundizar en temas avanzados porque el curso le resulta sencillo.
+Gabriela | 2,6 | 80 % | Comparte computador en casa y casi no puede practicar.
+Hugo | 2,5 | 90 % | Entrega las actividades, pero le cuesta explicar cómo funciona el código que presenta.
+
+Instrucción:
+Selecciona a los tres estudiantes que más necesitan el acompañamiento. Justifica cada elección y explica por qué dejaste fuera a los demás
+
+Información adicional sobre el programa:
+PROGRAMA B: Continuidad en el curso
+Ocho semanas de acompañamiento para favorecer la continuidad y evitar el abandono. Incluye tutorías semanales con horarios flexibles y seis horas adicionales de acceso a computador por semana. Los ocho estudiantes pueden asistir al menos a uno de los horarios. No incluye apoyo económico ni préstamo de computadores para la casa. El repaso para el examen está abierto a todos y es independiente de estos tres cupos.
+
+SEGUNDA RESPUESTA
+*Geminis de Google* 
+
+Estudiantes Seleccionados (Los 3 Cupos)
+
+• Diego (Nota: 1,9 | Asistencia: 60%)
+	• Justificación: Es el estudiante en mayor riesgo de abandono definitivo debido a su baja nota y asistencia por cuidar a un familiar. Al contar el programa con horarios flexibles, Diego puede coordinar la tutoría sin descuidar sus responsabilidades familiares. El acompañamiento es el salvavidas que necesita para ponerse al día y no rendirse.
+
+• Gabriela (Nota: 2,6 | Asistencia: 80%)
+	• Justificación: Su principal freno es que casi no puede practicar por compartir computador en casa. Las seis horas adicionales de acceso a computador que ofrece este programa resuelven su problema de raíz. Con ese tiempo extra de práctica guiada, tiene un potencial altísimo para nivelarse y continuar con éxito.
+
+• Bruno (Nota: 2,8 | Asistencia: 65%)
+	• Justificación: Su bajo porcentaje de asistencia se debe estrictamente a sus turnos de trabajo, lo que lo pone en riesgo de dejar el curso. Dado que el programa garantiza horarios flexibles y él puede asistir al menos a uno, este espacio se convierte en el puente perfecto para recuperar lo que pierde en las clases ordinarias y asegurar su continuidad.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Geminis aplicacion *  
+
+Selección de los tres estudiantes
+1. Gabriela
+
+    Justificación: Tiene una nota reprobatoria (2,6) y una asistencia aceptable (80 %), pero su principal obstáculo es que comparte computador en casa y casi no puede practicar. El programa ofrece exactamente lo que ella necesita para superar este cuello de botella: seis horas adicionales de acceso a computador por semana. Esto le permitirá realizar sus prácticas, consolidar conceptos y evitar abandonar por falta de herramientas técnicas.
+
+2. Diego
+
+    Justificación: Presenta la nota más baja del grupo (1,9) y su asistencia ha bajado al 60 % debido a responsabilidades de cuidado familiar. A pesar de esto, quiere continuar y se siente atrasado. El programa está diseñado precisamente para evitar el abandono en casos críticos. Con tutorías de horarios flexibles y apoyo en la continuidad, se le puede brindar la estructura necesaria para que no tire la toalla ante la acumulación de temas.
+
+3. Ana 
+
+    Justificación: Ana tiene una nota crítica (2,1) y una excelente asistencia (95 %). Demuestra alta constancia al estudiar por su cuenta, lo que prueba su motivación, pero sigue estancada en conceptos básicos. Al tener la disciplina de asistir a casi todas las clases, aprovechará al máximo las tutorías semanales personalizadas para destabar su comprensión teórica y práctica.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*ChatGPT* 
+
+1. Diego — Nota: 1,9 | Asistencia: 60 %
+
+Diego tiene la nota más baja del grupo y el porcentaje de asistencia más reducido. Sus ausencias se deben a que debe cuidar a un familiar, una situación que ha dificultado su continuidad académica. Además, expresa que se siente muy atrasado, aunque desea continuar estudiando.
+
+Lo seleccionaría porque presenta un riesgo importante de abandonar el curso. Las tutorías con horarios flexibles podrían ayudarlo a recuperar los contenidos que no ha visto, mientras que el acompañamiento semanal le permitiría avanzar gradualmente y recuperar la confianza en sus capacidades.
+
+2. Gabriela — Nota: 2,6 | Asistencia: 80 %
+
+Gabriela tiene una nota inferior a la mínima aprobatoria y su principal dificultad es que comparte computador en casa, por lo que casi no tiene oportunidades para practicar.
+
+La seleccionaría porque el programa ofrece seis horas adicionales de acceso a computador por semana, un recurso que responde directamente a una de sus necesidades. También podría aprovechar las tutorías para resolver dudas y fortalecer sus habilidades de programación. Aunque el programa no le proporciona un computador para llevar a casa, el acceso adicional podría mejorar sus oportunidades de practicar.
+
+3. Ana — Nota: 2,1 | Asistencia: 95 %
+
+Ana asiste regularmente y estudia por su cuenta, pero continúa sin comprender varios conceptos básicos. Su nota de 2,1 muestra que sus esfuerzos actuales no han sido suficientes para alcanzar el nivel de aprobación.
+
+La seleccionaría porque necesita apoyo académico específico para superar las dificultades conceptuales que están afectando su rendimiento. Las tutorías semanales podrían ayudarla a identificar sus errores, aclarar sus dudas y construir una base sólida para continuar con los siguientes temas del curso.
+
+
+
+
+COMPARACIÓN
+
+*Geminis de Google* 
+
+si cambio, al principio escogio a camila, ana y elena y en la segunda escogio a gabriela, bruno y diego, en verdad siento que como cambio el contexto o buneo el enfoque, ya que tuvo mas informacion y por eso escogio como mas bien a los que mas necesitaban ayuda o necesitaban enfocarse mas en mejorar las notas, en cambio al principio escogio como a los que estaban mas cerca en tema de llegar a las minima que seria 3.0 digamos que fue muy parecido eesta respuesta como a la primera de chatGPT ya que el se enfoco mas en mejorar los que mas necesitaban ayuda.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+*Geminis aplicacion *
+
+en este caso solo cambio uno, cambio a camila por gabriela, y siento siento que por la flexibilidad que se le brinda a gabiela ya que el problema principal de ella seria el tema del computador, asi que podria estudiar y mejorar teniendo las herramientas posibles, asi que miro cual era al que de una o otra manera podria beneficiar mas
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+*ChatGPT* 
+
+no no cambio absolutamente nada, ya que digamos que cambio la justificacion del porque uno o el otro pero no cambio los personajes que habia escogido a el principio siguio escogiendo a ana, diego y gabriela, ya que digamos que desde un principio se enfoco en mejorar a todos los que estaban mas vulnerables.
+
+
+CONCLUSIÓN
+
+Puesss al final me di cuenta o bueno mi conclusión seria que como tal la ia no puede adivinar que es lo realmente importante, si no se lo especificamos, en el primer enunciado prácticamente dejamos que la ia decidiera por si sola, como no le digo una guía como tal, la ia se fue por lo mas fácil, miro los números y vio el tema de la asistencia como en el caso de camila y elena que tenían el 100% y asumió que el programa era como la prioridad la asistencia, y de una descarto a la mayoría. entonces a nosotros nos falto definir desde el primer enunciaod el propósito del programa. y ya en la segunda le explicamos mas detallado exactamente lo que queiramos o necesitábamos, que era evitar que los alumnos abandonaran el curso, ya la ia cambio de opinión de inmediato, ya que ya tenia otras prioridades, para que la ia haga buena elección nosotros tenemos que definir la regla desde el primer momento.
