@@ -1,0 +1,32 @@
+Algoritmo OrdenarTresNumeros
+    Definir a, b, c Como Entero
+    
+    Escribir "Ingresa el primer número:"
+    Leer a
+    Escribir "Ingresa el segundo número:"
+    Leer b
+    Escribir "Ingresa el tercer número:"
+    Leer c
+    
+    Si a <= b Y b <= c Entonces
+        Escribir a, ", ", b, ", ", c
+    Sino
+        Si a <= c Y c <= b Entonces
+            Escribir a, ", ", c, ", ", b
+        Sino
+            Si b <= a Y a <= c Entonces
+                Escribir b, ", ", a, ", ", c
+            Sino
+                Si b <= c Y c <= a Entonces
+                    Escribir b, ", ", c, ", ", a
+                Sino
+                    Si c <= a Y a <= b Entonces
+                        Escribir c, ", ", a, ", ", b
+                    Sino
+                        Escribir c, ", ", b, ", ", a
+                    FinSi
+                FinSi
+            FinSi
+        FinSi
+    FinSi
+FinAlgoritmo
