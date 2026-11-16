@@ -1,0 +1,41 @@
+
+----------------------------------------------------------------------------------------------
+Caso		Entrada		Resultado que se espera	       PSeInt  Geminis  ChatGPT
+----------------------------------------------------------------------------------------------
+Desordenados	7, 2, 5			2, 5, 7			 ✅	 ✅	 ✅
+----------------------------------------------------------------------------------------------
+Al revés	9, 5, 1			1, 5, 9		  	 ✅	 ✅	 ✅
+----------------------------------------------------------------------------------------------
+Repetidos	5, 1, 5			1, 5, 5			 ✅	 ✅	 ✅
+----------------------------------------------------------------------------------------------
+Negativos	-3, 5, -1	       -3, -1, 5		 ✅	 ✅	 ✅
+----------------------------------------------------------------------------------------------
+Todos iguales	4, 4, 4	    		4, 4, 4			 ✅	 ✅	 ✅
+----------------------------------------------------------------------------------------------
+
+listooo esto seria los resultos que me dieron 
+
+la IA de geminis super bien los 4 casos, y me dio esta breve descrpicion
+
+¿Cómo funciona?
+Captura tres números enteros ingresados por el usuario mediante la instrucción Leer.
+
+Utiliza una cadena de estructuras condicionales (Si / Sino) anidadas para evaluar las 6 posibles combinaciones de orden entre ellos.
+
+Imprime directamente los valores en orden ascendente apenas encuentra la combinación matemática correcta.
+
+
+
+y chatGPT me dio esto 
+
+El programa solicita al usuario tres números enteros y los guarda en las variables a, b y c.
+
+Mediante condiciones Si y comparaciones, identifica cuál número es menor y cuál es mayor.
+
+Finalmente, muestra los tres números ordenados de menor a mayor, sin utilizar listas ni ciclos.
+
+
+
+-------------------------------------------------------------------------------
+
+Después de probar los programas de PSeInt, Gemini y ChatGPT con los cinco casos, comprobé que ordenaran correctamente los números. Elegí el de PSeInt porque me pareció más fácil de entender y me ayudó a comprender cómo ordenar tres números de menor a mayor. También revisé que los programas cumplieran las instrucciones y no usaran listas, ciclos ni la función sorted(). Esta actividad me permitió darme cuenta de que, aunque las IA pueden ayudar a programar, es importante probar sus respuestas para asegurarnos de que funcionen correctamente.
