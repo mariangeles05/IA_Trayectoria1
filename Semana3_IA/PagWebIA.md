@@ -1,0 +1,1 @@
+El Repositorio de Github donde esta la Pagina web creada con IA es Lex-Magistra : https://github.com/samintone2106/Lex-Magistra.git

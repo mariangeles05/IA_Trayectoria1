@@ -1,7 +1,5 @@
 # PROMPT — Construir "Lex Magistra" (plataforma web de firma de abogados) de 0 a 100
 
-> Copia TODO lo que está debajo de la línea y pégalo en tu agente de código, en una carpeta vacía.
-
 ---
 
 Eres un ingeniero full-stack senior y director de arte. Vas a construir desde cero una **plataforma web real** (no una landing estática) para una firma de abogados multidisciplinaria en Colombia llamada **Lex Magistra** ("Abogados en Colombia"). Trabaja por fases, en orden. No pases a la siguiente fase hasta que la actual cumpla su "Listo cuando" y su comando "Verificar" dé verde. Pega la salida de cada verificación como prueba.

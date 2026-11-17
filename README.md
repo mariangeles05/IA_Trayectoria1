@@ -1,6 +1,6 @@
 # IA_Trayectoria1
 
-Repositorio con lo que fui desarrollando en la trayectoria de Inteligencia Artificial en Riwi. Aquí dejo, semana por semana, las bitácoras, los ejercicios y una página web construida con ayuda de IA. No es un proyecto terminado y pulido: es el registro de lo que fui aprendiendo y de cómo lo fui aprendiendo.
+Repositorio con lo que fui desarrollando en la trayectoria de Inteligencia Artificial. Aquí dejo, semana por semana, las bitácoras, los ejercicios y una página web construida con IA.
 
 ## Contenido
 
@@ -9,7 +9,6 @@ Repositorio con lo que fui desarrollando en la trayectoria de Inteligencia Artif
 - [Semana 2: probar lo que dice la IA](#semana-2-probar-lo-que-dice-la-ia)
 - [Semana 3: una página web hecha con IA](#semana-3-una-página-web-hecha-con-ia)
 - [Cómo ver los archivos](#cómo-ver-los-archivos)
-- [Lo que me llevo](#lo-que-me-llevo)
 
 ## Estructura del repositorio
 
@@ -35,7 +34,7 @@ Carpeta: `Semana1_IA/`
 
 ## Semana 2: probar lo que dice la IA
 
-Esta semana fue sobre no creerle todo a la IA y revisar lo que entrega.
+Esta semana fue sobre no creerle todo a la IA y revisar lo que entrega jejeje 
 
 **Qué hay en la carpeta**
 - Caso "tres cupos, ocho estudiantes": comparé mi elección con la que propuso la IA.
@@ -44,7 +43,7 @@ Esta semana fue sobre no creerle todo a la IA y revisar lo que entrega.
 
 Carpeta: `Semana2_IA/`
 
-## Semana 3: una página web hecha con IA
+## Semana 3: una página web creada con IA
 
 Construimos una página web usando IA como apoyo. En la carpeta está el prompt con el que se planteó la plataforma de la firma de abogados "Lex Magistra".
 
@@ -62,7 +61,3 @@ Carpeta: `Semana3_IA/`
 | `pasaporte/index.html` (Semana 1) | En cualquier navegador |
 | `.psc` (Semanas 1 y 2) | Con [PSeInt](https://pseint.sourceforge.net/), se ejecutan ahí mismo |
 | `.txt` y `.md` | Se leen directamente |
-
-## Lo que me llevo
-
-La IA ayuda mucho, pero hay que probar lo que entrega y entenderlo antes de usarlo. Y trabajar con compañeros hizo que el resultado fuera mejor.
